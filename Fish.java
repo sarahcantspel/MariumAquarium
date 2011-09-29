@@ -5,7 +5,7 @@ import java.util.Random;
 
 enum Direction 
 {
-	EAST, WEST, SOUTH, NORTH 
+	WEST, SOUTH, EAST, NORTH 
 }
 
 public class Fish 
